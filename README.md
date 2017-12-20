@@ -1,4 +1,4 @@
-### zhihu-spider
+### spider
 nodejs知乎头像抓取,利用fs文件组件，sync异步组件，request的http组件，进行批量的数据获取与写文件到本地
 
 ### 使用手册
